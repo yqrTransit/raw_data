@@ -1,0 +1,2 @@
+agency_phone,agency_url,agency_id,agency_name,agency_timezone,agency_lang
+306.777.7433,http://www.regina.ca,,The City of Regina,America/Regina,en
